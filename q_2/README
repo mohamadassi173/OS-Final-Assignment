@@ -1,0 +1,16 @@
+readMe
+
+q2.0
+1) type "make" in terminal.
+2) run "./check_pid <pid_number>" 
+
+
+q2.2
+1. open the terminal then run "make"
+3. run "./server"
+4. open other terminal and run "./client <server_pid> <signal> <number of signals>" (choose in signal 2 or 10)
+
+
+
+
+please read the pdf file. 
